@@ -1,0 +1,7 @@
+{
+  "name": "Love Chronicle 2026",
+  "description": "A warm, romantic web application dedicated to celebrating Valentine's Day 2026, featuring photo galleries, heartfelt letters, and AI-powered love whispers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
