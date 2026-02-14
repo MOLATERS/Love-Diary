@@ -5,13 +5,13 @@ export const INITIAL_PHOTOS: MemoryPhoto[] = [
   {
     id: '1',
     url: 'https://cloud.on-u.cn/file-plus/one-drive/url?shareId=u%21aHR0cHM6Ly8xZHJ2Lm1zL2kvYy8wMjdiMDY5N2FjYTA1NjcyL0lRQ016QUh0SUw4QlQ2Uld4VlhtV0tCdEFmd3RPR2dreVhrdmVpWHgxNVJ2bGJJ&u=f8c1f38d4883c4df5514b9a5081018ba&sign=46D3EFF2E84AE00717C37BC87065EEC9', // 请在此替换为你的本地图片路径，如：./images/1.jpg
-    caption: '和宝贝一起，新的一年新的大头贴！',
+    caption: '和宝贝一起，在宝贝的生日获得新的大头贴！',
     date: '2026-01-21'
   },
   {
     id: '2',
     url: 'https://cloud.on-u.cn/file-plus/one-drive/url?shareId=u%21aHR0cHM6Ly8xZHJ2Lm1zL2kvYy8wMjdiMDY5N2FjYTA1NjcyL0lRQnotMlVVV05GTVQ0Y3lfd2J0VlZ2X0FkYy1wRE45WlRnOGwzS0VLZHNFM3Bz&u=f8c1f38d4883c4df5514b9a5081018ba&sign=5F32CA290EA8F4D137D09A3051EE9768', // 请在此替换为你的本地图片路径
-    caption: '那天你说，我们在上海也能看到雪，宝贝真的好美',
+    caption: '那天你说，我们在上海也能看到雪！宝贝在雪里真的好美',
     date: '2025-12-26'
   },
   {
@@ -29,7 +29,7 @@ export const INITIAL_PHOTOS: MemoryPhoto[] = [
   {
     id: '5',
     url: 'https://cloud.on-u.cn/file-plus/one-drive/url?shareId=u%21aHR0cHM6Ly8xZHJ2Lm1zL2kvYy8wMjdiMDY5N2FjYTA1NjcyL0lRQ3JFNGtmZkVWZFJMa0R2cHd4aTAzUEFTeGc4cFJKUWx2cVk5b1d4aUNVVGMw&u=f8c1f38d4883c4df5514b9a5081018ba&sign=7C0886B4FB7B8D8E8D0B0C270495D9B4',
-    caption:'太阳也躲着我们，在我们的背后偷偷拍！',
+    caption:'太阳也躲着我们的恩爱，在我们的背后偷偷看！',
     date: '2025-11-15'
   }
 ];
